@@ -29,11 +29,17 @@ https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU3dXMxdW91dTIwYTFtZXc5aTFmZHB1Mml
   <a href="https://www.geeksforgeeks.org/user/harishparam7uw4/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG" />
   </a>
-</div>
-<div id="profileViewer" align="center">
-<img src="https://komarev.com/ghpvc/?username=Harish141296&style=flat-square&color=blue" alt=""/>
-</div>
-<h1>
+ <!-- Profileviewer line available below please paste it here once done with all the changes.-->
+  
+  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+<div id="Banner" align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjE0cnlzcDh2NGlqcHNoM2FrNTEzYjJ3N2RkNmowcGkweXU4OTUxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="500" />
+</div>
+<!-- <div id="profileViewer" align="center"> 
+<img src="https://komarev.com/ghpvc/?username=Harish141296&style=flat-square&color=blue" alt=""/>
+</div> -->
+
